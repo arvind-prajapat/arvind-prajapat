@@ -14,7 +14,7 @@ Besides GitHub, You can find me on [Twitter](https://twitter.com/praja_arvind).
 ![](https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=ffffff)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/Styled%20Components-444941?style=for-the-badge&logo=styledcomponents&logoColor=f1f1f1)
-![](https://img.shields.io/badge/Typescript-185ADB?style=for-the-badge&logo=typescript&logoColor=f1f1f1)
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
