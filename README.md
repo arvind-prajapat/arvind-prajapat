@@ -3,7 +3,7 @@ Find more on my Portfolio
 #### _[https://www.arvind.net.in/](https://www.arvind.net.in/)_
 
 
-The green dots on my GitHub profile represent my journey 🏃‍♀️ - From being curious to becoming  Front-end Developer.
+The green dots on my GitHub profile represent my journey 🏃‍♀️ - From being curious to becoming Front end Web Developer.
 Besides GitHub, You can find me on [Twitter](https://twitter.com/praja_arvind). 
  
 
